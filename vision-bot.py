@@ -58,4 +58,4 @@ def checkVision():
         if '\"wardScore\":' in line:
             vision.append(line.split(':')[1].strip())
 
-client.run('NzkzNDMwMTQ4MTI4NzAyNDY1.X-sJaA.sVUzPb6J9ZjJIYSvyiVNoKtsHr0')
+client.run('redacted-token')
